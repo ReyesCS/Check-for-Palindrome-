@@ -1,0 +1,9 @@
+c:\users\shonen1561\documents\visual studio 2017\Projects\Reverse a string\Reverse a string\bin\Debug\netcoreapp1.1\Reverse a string.deps.json
+c:\users\shonen1561\documents\visual studio 2017\Projects\Reverse a string\Reverse a string\bin\Debug\netcoreapp1.1\Reverse a string.runtimeconfig.json
+c:\users\shonen1561\documents\visual studio 2017\Projects\Reverse a string\Reverse a string\bin\Debug\netcoreapp1.1\Reverse a string.runtimeconfig.dev.json
+c:\users\shonen1561\documents\visual studio 2017\Projects\Reverse a string\Reverse a string\bin\Debug\netcoreapp1.1\Reverse a string.dll
+c:\users\shonen1561\documents\visual studio 2017\Projects\Reverse a string\Reverse a string\bin\Debug\netcoreapp1.1\Reverse a string.pdb
+c:\users\shonen1561\documents\visual studio 2017\Projects\Reverse a string\Reverse a string\obj\Debug\netcoreapp1.1\Reverse a string.csprojResolveAssemblyReference.cache
+c:\users\shonen1561\documents\visual studio 2017\Projects\Reverse a string\Reverse a string\obj\Debug\netcoreapp1.1\Reverse a string.AssemblyInfo.cs
+c:\users\shonen1561\documents\visual studio 2017\Projects\Reverse a string\Reverse a string\obj\Debug\netcoreapp1.1\Reverse a string.dll
+c:\users\shonen1561\documents\visual studio 2017\Projects\Reverse a string\Reverse a string\obj\Debug\netcoreapp1.1\Reverse a string.pdb
